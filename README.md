@@ -1,5 +1,3 @@
-# Milestone Maker
-This project won 2nd prize in the SwarmZero bounty at the hackathon [ETHToronto 2024](https://www.ethtoronto.ca/winners)
 
 # Description
 Milestone Maker is a cutting-edge learning platform that fuses blockchain technology with artificial intelligence to deliver personalized educational experiences. By leveraging the Hive-Agent Kit from SwarmZero.AI, we've developed an AI agent that autonomously generates customized learning paths based on user input. These paths are securely stored on the blockchain, ensuring transparent and immutable tracking of a learner's progress.
